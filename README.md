@@ -1,12 +1,12 @@
-# Network Kit Beta 12
+# Network Kit Beta 12.1
 
 Network Kit is a local-first macOS workspace for building relationships and turning them into useful action. It keeps people, companies, outreach, meetings, opportunities, resumes, cover letters, reusable facts, goals, events, and follow-through connected without requiring an online account.
 
 ## Latest Download
 
-- Release: [Network Kit Beta 12](https://github.com/andrew-servey/network-kit-beta/releases/tag/v0.3.0-beta.12)
-- macOS ZIP: [Network.Kit.Beta.12.macOS.zip](https://github.com/andrew-servey/network-kit-beta/releases/download/v0.3.0-beta.12/Network.Kit.Beta.12.macOS.zip)
-- SHA-256: `c781ac71f26fc1bd9841b6aca58cf3b2dd9582cdc62f6c3c677f92c4e4dec3ad`
+- Release: [Network Kit Beta 12.1](https://github.com/andrew-servey/network-kit-beta/releases/tag/v0.3.0-beta.12.1)
+- macOS ZIP: [Network.Kit.Beta.12.1.macOS.zip](https://github.com/andrew-servey/network-kit-beta/releases/download/v0.3.0-beta.12.1/Network.Kit.Beta.12.1.macOS.zip)
+- SHA-256: `dedad735386ca92a5ed9f8f9372cec15a76540a4af5b3d51097433141a73ee7b`
 - Architecture: Apple silicon (`arm64`)
 - Signing: ad-hoc signed; not Apple-notarized
 
@@ -27,14 +27,14 @@ Network Kit stores its working data locally on your Mac and does not require a N
 
 ## Opening on macOS
 
-1. Download and unzip `Network.Kit.Beta.12.macOS.zip`.
-2. Move `Network Kit Beta 12.app` to Applications.
+1. Download and unzip `Network.Kit.Beta.12.1.macOS.zip`.
+2. Move `Network Kit Beta 12.1.app` to Applications.
 3. On first launch, Control-click the app and choose **Open**, then confirm **Open**.
 
 If macOS still blocks the app after that, use this fallback in Terminal:
 
 ```sh
-xattr -dr com.apple.quarantine "/Applications/Network Kit Beta 12.app"
+xattr -dr com.apple.quarantine "/Applications/Network Kit Beta 12.1.app"
 ```
 
 ## Backups and Portable Data
@@ -43,4 +43,4 @@ Use **Settings → Data** to export a portable `network-kit-data.json` backup. K
 
 ## Beta Software Expectations
 
-Network Kit Beta 12 is functional beta software, so rough edges may remain. Use **Command–Option–I** to create a developer bug capture; the app saves captures to your `Downloads/developer-bug-captures` folder.
+Network Kit Beta 12.1 is functional beta software, so rough edges may remain. Use **Command–Option–I** to create a developer bug capture; the app saves captures to your `Downloads/developer-bug-captures` folder.
