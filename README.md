@@ -8,11 +8,16 @@ It combines:
 - **Opportunities** — review companies, capture jobs, and manage active pursuits and next steps.
 - **Documents** — create and tailor resumes and cover letters alongside the opportunities they support.
 
-Network Kit is currently available for **macOS**, with **Windows support planned**.
+Network Kit is currently available for **macOS (Apple silicon)** and **Windows (x64)**.
 
 ## Current Release
 
 **Network Kit Castor V1.0** is the first public V1 release.
+
+Available builds:
+
+- **macOS:** Apple silicon (`arm64`)
+- **Windows:** x64
 
 [Download Castor V1.0](https://github.com/andrew-servey/network-kit-releases/releases/tag/v1.0.0)
 
