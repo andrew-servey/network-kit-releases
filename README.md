@@ -12,14 +12,16 @@ Network Kit is currently available for **macOS (Apple silicon)** and **Windows (
 
 ## Current Release
 
-**Network Kit Castor V1.0** is the first public V1 release.
+**Network Kit Castor V1.1** is the current release.
+
+Castor V1.1 introduces a **reworked document editor** with a more polished editing workspace and improved document tools.
 
 Available builds:
 
 - **macOS:** Apple silicon (`arm64`)
 - **Windows:** x64
 
-[Download Castor V1.0](https://github.com/andrew-servey/network-kit-releases/releases/tag/v1.0.0)
+[Download Castor V1.1](https://github.com/andrew-servey/network-kit-releases/releases/tag/v1.1.0)
 
 > This repository distributes compiled releases only. Network Kit's source code is private.
 
